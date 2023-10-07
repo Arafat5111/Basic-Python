@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name = ("Arafat,Alvee")
 print(name[0:6])
 print(len(name))
@@ -14,7 +13,6 @@ print(fruit[-3:-1])
 
 # Quick Quiz:
 nm = "Alvee"
-=======
 name = ("Arafat,Alvee")
 print(name[0:6])
 print(len(name))
@@ -29,6 +27,5 @@ print(fruit[:-3])
 print(fruit[-3:-1])
 
 # Quick Quiz:
-nm = "Alvee"
->>>>>>> dc1e682726a0fc6ff86799db446a29cbf4adaec2
+nm = "Alvee khan"
 print(nm[-4:-2])
