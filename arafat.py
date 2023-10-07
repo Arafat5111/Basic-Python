@@ -1,0 +1,2 @@
+a = "arafat"
+print(a)
