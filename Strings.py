@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Name = "Arafat"
 print("Hello,", Name)
 Friend = "Shamim"
@@ -27,7 +26,6 @@ print(Name[5])
 print("lets use a for loop\n")
 for character in Name:
     print(character)
-=======
 Name = "Arafat"
 print("Hello,", Name)
 Friend = "Shamim"
@@ -56,4 +54,3 @@ print(Name[5])
 print("lets use a for loop\n")
 for character in Name:
     print(character)
->>>>>>> dc1e682726a0fc6ff86799db446a29cbf4adaec2

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 a = "1"
 # a = 1
 b = "2"
@@ -15,7 +14,6 @@ print("The sum of both number is: ", sum)
 # Implicit TypeCasting
 c = 1.9
 d = 8
-=======
 a = "1"
 # a = 1
 b = "2"
@@ -32,5 +30,4 @@ print("The sum of both number is: ", sum)
 # Implicit TypeCasting
 c = 1.9
 d = 8
->>>>>>> dc1e682726a0fc6ff86799db446a29cbf4adaec2
 print(c+d)

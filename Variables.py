@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 a = 1.1
 b = True
 c = "Arafat"
@@ -22,7 +21,6 @@ tuple1 = (("parrot", "sparrow"), ("Lion", "Tiger"))
 print(tuple1)
 
 dict1 = {"name":"Arafat", "age":20, "canVote":True}
-=======
 a = 1.1
 b = True
 c = "Arafat"
@@ -46,5 +44,4 @@ tuple1 = (("parrot", "sparrow"), ("Lion", "Tiger"))
 print(tuple1)
 
 dict1 = {"name":"Arafat", "age":20, "canVote":True}
->>>>>>> dc1e682726a0fc6ff86799db446a29cbf4adaec2
 print(dict1)
